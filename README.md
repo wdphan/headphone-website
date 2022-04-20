@@ -1,4 +1,4 @@
-# 🎧 Headphones Landing Page
+# 🎧 Headphone Store Website
 
 - Dark interface.
 - With animations when scrolling.

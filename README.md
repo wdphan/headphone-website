@@ -1,4 +1,4 @@
-# 🎧 Headphones Landing Page Headphones
+# 🎧 Headphones Landing Page
 
 - Dark interface.
 - With animations when scrolling.
